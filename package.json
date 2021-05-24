@@ -1,5 +1,6 @@
 {
-  "name": "tha9fni.tn",
+  "name": "programmers.tn",
+  "homepage":"https://www.programmers.tn",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
