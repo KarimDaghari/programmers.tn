@@ -1,4 +1,4 @@
-<img style="text-align: center;"  align="center" src="./.github/logo.jpg" height="150" width="150"/>
+<img style=".centerImage{ text-align:center; display:block;}" class="centerImage" src="./.github/logo.jpg" height="150" width="150"/>
 <h1 align="center">programmers.tn</h1>
 
  <img align="center" src="https://img.shields.io/github/languages/top/tunpl/programmers.tn"> <img align="center" src="https://img.shields.io/discord/834943508225327114"> <img align="center" src="https://img.shields.io/david/tunpl/programmers.tn"> <img align="center" src="https://img.shields.io/github/stars/tunpl/programmers.tn?style=social">
