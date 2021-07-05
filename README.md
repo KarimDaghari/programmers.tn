@@ -6,7 +6,7 @@
 ## 🎤 The stack/technologies we're using
 - Nextjs
 - ReactJS
-
+- TailwindCSS
 
 Before contributing check: 
 ### :red_circle: Pull Request Guidelines
@@ -34,6 +34,7 @@ Before contributing check:
 
 ## 🔶 The Branches: 
 - dev: for everything in the development process
+- 
 - main: for prod, don't edit this one ❗
 
 ## ✅ The Reviewers:
@@ -43,5 +44,10 @@ Before contributing check:
 ## ✨ How to execute in Localhost
 0. git clone ```https://github.com/tunpl/programmers.tn.git```
 1. npm install 
-2. npm run build
+2. npm run dev
 3. npm start 
+
+## ❓ You want to contribute ❓ 
+⚪ First,Please check the 2Dos on the project side. 
+⚪ Help us Fix some issues & Submitting pull requests 
+
