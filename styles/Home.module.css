@@ -126,6 +126,9 @@
 .second{
   color: white;
 }
+.third {
+  color: white;
+}
 .list1{
   list-style-type: none;
   margin: 0;
@@ -147,4 +150,8 @@
   text-decoration: none;
 }
 .navbar li{
+}
+.social1{
+ position: absolute;
+ left:150px; 
 }
