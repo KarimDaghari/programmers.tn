@@ -119,3 +119,29 @@
     flex-direction: column;
   }
 }
+
+.second{
+  color: red;
+}
+.list1{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+.list2{
+  float: left;
+  /*display: inline-block;*/
+}
+
+.list2 a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar li{
+}
