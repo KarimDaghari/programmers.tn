@@ -34,8 +34,8 @@ Before contributing check:
 
 ## 🔶 The Branches: 
 - dev: for everything in the development process
-- 
-- main: for prod, don't edit this one ❗
+- features: basically like dev but focusing more on the added featueres and fixes. 
+- main: for prod, don't try to edit this one ❗
 
 ## ✅ The Reviewers:
 - @elfalehdev 
@@ -48,6 +48,6 @@ Before contributing check:
 3. npm start 
 
 ## ❓ You want to contribute ❓ 
-⚪ First,Please check the 2Dos on the project side. 
-⚪ Help us Fix some issues & Submitting pull requests 
+⚪ First,Please check the 2Dos on the project side. <br />
+⚪ Help us Fix some issues & Submitting pull requests <br />
 
