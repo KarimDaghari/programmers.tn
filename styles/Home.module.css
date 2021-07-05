@@ -24,6 +24,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  color: white;
 }
 
 .footer a {
@@ -34,7 +35,8 @@
 }
 
 .title a {
-  color: #0070f3;
+  /*color: #0070f3;*/
+  color: #e5284c;
   text-decoration: none;
 }
 
@@ -48,6 +50,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  color:white;
 }
 
 .title,
@@ -82,7 +85,7 @@
   margin: 1rem;
   padding: 1.5rem;
   text-align: left;
-  color: inherit;
+  color: white;
   text-decoration: none;
   border: 1px solid #eaeaea;
   border-radius: 10px;
@@ -93,8 +96,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #e5284c;
+  border-color: #1e2327;
 }
 
 .card h2 {
@@ -121,7 +124,7 @@
 }
 
 .second{
-  color: red;
+  color: white;
 }
 .list1{
   list-style-type: none;
