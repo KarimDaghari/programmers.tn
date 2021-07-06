@@ -10,6 +10,7 @@ export default function Home() {
         <meta name="description" content="programmers.tn" />
         <link rel="icon" href="/logo.png" />
       </Head>
+   <h3 className={styles.bar1}><a href="/">Home</a>&nbsp; &nbsp; &nbsp;<a href="/about">About</a>&nbsp; &nbsp; &nbsp;<a href="/services">Services</a>&nbsp; &nbsp; &nbsp;<a href="/contact">Contact</a></h3>
 
       <main className={styles.main}>
       <p className={styles.title}>
@@ -17,18 +18,18 @@ export default function Home() {
 
 
         <div className={styles.grid}>
-          <a href="/consultalt" className={styles.card}>
+          <a href="services/consultant" className={styles.card}>
             <h2>Consultant &rarr;</h2>
-            <p>We provide in depth Technical Consultant.🧙</p>
+            <p>We provide in depth Technical Consultant. 🧙</p>
           </a>
 
-          <a href="/mentorship" className={styles.card}>
+          <a href="services/mentorship" className={styles.card}>
             <h2>Mentorship &rarr;</h2>
-            <p>Find experts to guide to your next big project! 👨‍💻</p>
+            <p>Find experts to guide you to your next big project! 👨‍💻</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="services/internship"
             className={styles.card}
           >
             <h2>Internships &rarr;</h2>
@@ -36,7 +37,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="services/more"
             className={styles.card}
           >
             <h2>more.. &rarr;</h2>

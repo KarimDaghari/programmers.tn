@@ -17,9 +17,9 @@ export default function Home() {
         <meta name="description" content="programmers.tn" />
         <link rel="icon" href="/logo.png" />
       </Head>
-
+   <h3 className={styles.bar1}><a href="/">Home</a>&nbsp; &nbsp; &nbsp;<a href="/about">About</a>&nbsp; &nbsp; &nbsp;<a href="/services">Services</a>&nbsp; &nbsp; &nbsp;<a href="/contact">Contact</a></h3>
       <main className={styles.main}>
-    
+ 
         <h1 className={styles.title}>
           Welcome to 👉 <a href="/services">programmers.tn</a>
         </h1>
