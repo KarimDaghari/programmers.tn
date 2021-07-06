@@ -37,7 +37,7 @@ export default function Home() {
   <FacebookIcon size={40} round />
 </FacebookShareButton> &nbsp;
 <LinkedinShareButton url={'https://linkedin.com/in/programmers.tn/'}>
-  <LinkedinIcon size={41.5} round />
+  <LinkedinIcon size={40} round />
 </LinkedinShareButton>
       </footer>
     </div>
