@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import vector1 from '../public/vectors/vector1.jpg'
+
 export default function Home() {
   return (
     <div className={styles.container}>
