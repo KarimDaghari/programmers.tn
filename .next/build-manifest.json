@@ -1,7 +1,7 @@
 {
   "polyfillFiles": [
     "static/chunks/polyfills.js"
-  ],
+   ],
   "devFiles": [
     "static/chunks/react-refresh.js"
   ],
