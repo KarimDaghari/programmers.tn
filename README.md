@@ -6,7 +6,7 @@
 ## 🎤 The stack/technologies we're using
 - Nextjs
 - ReactJS
-
+- Tailwind (later on)
 
 Before contributing check: 
 ### :red_circle: Pull Request Guidelines
