@@ -45,7 +45,6 @@ Before contributing check:
 0. git clone ```https://github.com/tunpl/programmers.tn.git```
 1. npm install 
 2. npm run dev
-3. npm start 
 
 ## ❓ You want to contribute ❓ 
 ⚪ First,Please check the 2Dos on the project side. <br />
