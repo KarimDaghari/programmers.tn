@@ -50,7 +50,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 2.5rem;
-  color:white;
+  color: white;
 }
 
 .title,
@@ -62,7 +62,7 @@
   line-height: 1.5;
   font-size: 1.5rem;
 }
-/* Code edited by: @elfalehdev .. Check the LICENSE before doing anything! */ 
+/* Code edited by: @elfalehdev .. Check the LICENSE before doing anything! */
 .code {
   background: #fafafa;
   border-radius: 5px;
@@ -123,59 +123,65 @@
   }
 }
 
-.second{
+.second {
   color: white;
 }
 .third {
   color: white;
 }
-.list1{
+.list1 {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  
 }
 
-.list2{
+.list2 {
   float: left;
   /*display: inline-block;*/
 }
 
-.list2 a{
+.list2 a {
   display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-.navbar li{
+.social1 {
+  position: absolute;
+  left: 150px;
 }
-.social1{
- position: absolute;
- left:150px; 
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.bar1 a{
+
+.navbar a {
   color: white;
+  padding: 0.8em;
+  font-weight: bold;
+  font-size: 1.17em;
 }
-.bar1 a:hover,
-.bar1 a:focus,
-.bar1 a:active
-{
+.navbar a:hover,
+.navbar a:focus,
+.navbar a:active {
   color: #e5284c;
 }
-.name1{
+.name1 {
   font-size: 30px;
   color: white;
 }
-.aboutintro{
+.aboutintro {
   color: white;
-  font-size:1.75em;
+  font-size: 1.75em;
 }
-.about2{
+.about2 {
   color: white;
   font-size: 1.25em;
 }
-.about2 a{
+.about2 a {
   color: #e5284c;
 }
